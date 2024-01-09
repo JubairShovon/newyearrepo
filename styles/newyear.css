@@ -1,0 +1,74 @@
+/* Header font style */
+.happy{
+    font-family: 'Merriweather', serif;
+    color: #fff;
+
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 30px;
+
+
+}
+.new , .cele{
+    font-family: 'Merriweather', serif;
+    color: #fff;
+
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+
+}
+/* header banner Style */
+.banner{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+   margin-left: 230px;
+   margin-top: 10px;
+padding-top: 100px;
+
+}
+.primarycolor{color: #FF0000;}
+.off{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.our{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+.all{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.img{
+margin-left: 450px;
+
+}
+.welcome{width: 642px;}
