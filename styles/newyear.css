@@ -71,4 +71,80 @@ line-height: normal;
 margin-left: 450px;
 
 }
-.welcome{width: 642px;}
+/* second div style */
+.welcome , .midnight {
+    color: #fff;
+
+    
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    padding-left: 150px;
+
+
+}
+.second{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-image: url("../B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+    background-repeat: no-repeat;
+   margin-left: 230px;
+   margin-top: 10px;
+padding-top: 100px;
+
+}
+.each{color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+padding-left: 150px;}
+
+.join{
+
+    color: red;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-bottom: 100px;
+}
+.p{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    text-align: center;
+
+
+}
+
+.span{
+   color: #F00; 
+}
+.button{
+    color: #F00;
+    text-align: center;
+    margin-left: 900px;
+}
+.third{
+background-color: aqua;
+
+}
+.forth{
+border-radius: 10px;
+margin-left: 1000px;
+
+}
+.footer{background-color: bisque;}
